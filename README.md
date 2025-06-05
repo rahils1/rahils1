@@ -6,7 +6,7 @@
 ## Skills
 * Programming and Hardware Description Languages: Java, Python, C/C++, SQL, JavaScript, Verilog
 * Developer Tools: GitHub, Unity, Firebase, Render, VS Code, IntelliJ
-* Developer Tools: Cloud Firestore, MySQL, MongoDB
+* Databases: Cloud Firestore, MySQL, MongoDB
 
 ## Project Experience
 * __Score Tracking Discord Bot__ | _Python, discord.py, MongoDB, Render_
