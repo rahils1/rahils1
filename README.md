@@ -20,7 +20,12 @@
   * Implemented a PID control algorithm to ensure precise, smooth line-following behavior using real-time feedback from a line sensor array.
   * Integrated an ultrasonic sensor for dynamic obstacle detection and avoidance.
   * Integrated an RGB sensor using I2C communication protocol for environmental color-based decision-making.
-  * Designed real-time sensor logic to coordinate data from multiple sensors and adjust navigation behavior accordingly. 
+  * Designed real-time sensor logic to coordinate data from multiple sensors and adjust navigation behavior accordingly.
+* __MIPS Processor Implementation and Testbench__ | _Verilog_
+  * Designed and implemented a 32-bit pipelined MIPS processor supporting arithmetic, logic, memory, and control flow instructions using Verilog.
+  * Developed a self-checking testbench to verify processor behavior against expected outputs using instruction memory and LED outputs.
+  * Created modular components including ALU, register file, memory, and controller.
+  * Implemented hazard-free instruction flow and verified correctness using a preloaded instruction set and expected output register values.
 * __Personal Portfolio Website__ | _HTML, CSS, Firebase_
   * Developed a personal portfolio website using HTML and CSS to showcase my various projects.
   * Deployed and hosted the website using the Firebase CLI, ensuring reliable online access to my work.
