@@ -9,11 +9,17 @@
 * Databases: Cloud Firestore, MySQL, MongoDB
 
 ## Project Experience
-* __Score Tracking Discord Bot__ | _Python, discord.py, MongoDB, Render_
+* __Cordbyte — Modular Discord Bot Template__ | _Python, discord.py, MongoDB_
+  * Designed a simple, clean, and extensible Discord bot template using `discord.py`, supporting slash commands, buttons, and background tasks.
+  * Integrated MongoDB for persistent storage, enabling command state, user preferences, and server-specific settings.
+  * Structured the codebase for scalability with easy-to-register commands and scheduled background tasks.
+  * Wrote complete project documentation and maintained a public GitHub repository to support community use and contribution.  
+  * [GitHub: github.com/rahils1/cordbyte](https://github.com/rahils1/cordbyte)
+* __Score Tracking Discord Bot__ | _Python, discord.py, MongoDB, Render, Cloud Firestore, Railway_
   * Developed a multi-purpose Discord bot using discord.py to automate server leaderboard management and enhance user interaction.
   * Originally integrated with Cloud Firestore for data persistence; later migrated to MongoDB to improve query flexibility and performance.
   * Persisted user data, command usage, and server-specific configurations using MongoDB.
-  * Deployed the bot using Render with secure environment configuration managed through a .env file.
+  * Initially deployed the bot using Render with secure environment configuration managed through a .env file, shifted to Railway for better performance.
   * Utilized asynchronous programming to efficiently handle Discord events and background tasks.
 * __Embedded Vehicle with Multi-Sensor Navigation__ | _C, FRDM-KL46Z, Embedded Systems_
   * Engineered a fully autonomous vehicle using C and the FRDM-KL46Z board, emphasizing low-level embedded systems programming.
@@ -35,12 +41,3 @@
   * Implemented functionality for users to login, search for books, buy books, and list books for sale.
   * Designed and created the UI for the system using JavaFX.
   * Implemented database interactions for book purchases, look up, and sales using MySQL.
-
-## Work Experience
-* __Walmart__ | _Digital Personal Shopper_ | _Phoenix, AZ_ | _May 2024 - Present_
-  *  Collaborated with a team to efficiently process and fulfill online customer orders.
-  *  Assisted in training new team members on customer service protocols.
-* __Kumon__ | _Tutor_ | _Phoenix, AZ_ | _Dec 2021 - May 2023_
-  * Recognized as employee of the month several times throughout my time as an employee.
-  * Provided feedback and progress reports to supervisors regularly.
-  * Trained and mentored new employees, ensuring that they were prepared to tutor students. 
