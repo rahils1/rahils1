@@ -1,7 +1,7 @@
 # About Me
 
 ## Overview
-* Hello, I am Rahil. I am a fourth year Computer Systems Engineering student at ASU. I am interested in learning about artificial intelligence/machine learning, embedded systems, and game development. I have worked on a few projects with the FRDM-KL46Z board, and I also have some experience working on a few small discord bots. Feel free to contact me: rahil15973@gmail.com
+* Hello, I am Rahil. I am a fourth year Computer Systems Engineering student at ASU. I am interested in learning about artificial intelligence/machine learning, embedded systems, and game development. I have worked on a few projects with the FRDM-KL46Z board, and I also have some experience working on a few small discord bots. Currently working on dsaria(see details below). Feel free to contact me: rahil15973@gmail.com
 
 ## Skills
 * Programming and Hardware Description Languages: Java, Python, C/C++, SQL, JavaScript, Verilog
@@ -9,12 +9,18 @@
 * Databases: Cloud Firestore, MySQL, MongoDB
 
 ## Project Experience
-* __Cordbyte — Modular Discord Bot Template__ | _Python, discord.py, MongoDB_
+* __cordbyte — Modular Discord Bot Template__ | _Python, discord.py, MongoDB_
   * Designed a simple, clean, and extensible Discord bot template using `discord.py`, supporting slash commands, buttons, and background tasks.
   * Integrated MongoDB for persistent storage, enabling command state, user preferences, and server-specific settings.
   * Structured the codebase for scalability with easy-to-register commands and scheduled background tasks.
   * Wrote complete project documentation and maintained a public GitHub repository to support community use and contribution.  
   * [GitHub: github.com/rahils1/cordbyte](https://github.com/rahils1/cordbyte)
+* __dsaria — Python Data Structures and Algorithms Library__ | _Python, PyPI_
+  * Created a lightweight Python package implementing common data structures and algorithms for educational purposes.
+  * Developed and published the package to PyPI, making it installable via `pip install dsaria`.
+  * Implemented sorting algorithms including Bubble Sort and Counting Sort with plans for additional algorithms.
+  * Gained hands-on experience with Python package development, distribution, and PyPI publishing workflows.
+  * [GitHub: github.com/rahils1/dsaria](https://github.com/rahils1/dsaria) | [PyPI: pypi.org/project/dsaria](https://pypi.org/project/dsaria/)
 * __Score Tracking Discord Bot__ | _Python, discord.py, MongoDB, Render, Cloud Firestore, Railway_
   * Developed a multi-purpose Discord bot using discord.py to automate server leaderboard management and enhance user interaction.
   * Originally integrated with Cloud Firestore for data persistence; later migrated to MongoDB to improve query flexibility and performance.
