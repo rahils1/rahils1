@@ -4,7 +4,7 @@
 * Hello, I am Rahil. I am a fourth year Computer Systems Engineering student at ASU. I am interested in learning about artificial intelligence/machine learning, embedded systems, and game development. I have worked on a few projects with the FRDM-KL46Z board, and I also have some experience working on a few small discord bots. Currently working on dsaria(see details below). Feel free to contact me: rahil15973@gmail.com
 
 ## Skills
-* Programming and Hardware Description Languages: Java, Python, C/C++, SQL, JavaScript, Verilog
+* Programming and Hardware Description Languages: Java, Python, C/C++, SQL, JavaScript, Verilog, Dart
 * Developer Tools: GitHub, Unity, Firebase, Render, VS Code, IntelliJ
 * Databases: Cloud Firestore, MySQL, MongoDB
 
