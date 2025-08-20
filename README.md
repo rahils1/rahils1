@@ -38,10 +38,6 @@
   * Developed a self-checking testbench to verify processor behavior against expected outputs using instruction memory and LED outputs.
   * Created modular components including ALU, register file, memory, and controller.
   * Implemented hazard-free instruction flow and verified correctness using a preloaded instruction set and expected output register values.
-* __Personal Portfolio Website__ | _HTML, CSS, Firebase_
-  * Developed a personal portfolio website using HTML and CSS to showcase my various projects.
-  * Deployed and hosted the website using the Firebase CLI, ensuring reliable online access to my work.
-  * [Personal Portfolio: personal-portfolio.web.app](personal-portfolio.web.app)
 * __Book Store System__ | _Java, JavaFX, MySQL_
   * Developed user authentication and book search functionalities using Java.
   * Implemented functionality for users to login, search for books, buy books, and list books for sale.
