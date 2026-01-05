@@ -5,8 +5,8 @@
 
 ## Skills
 * Programming and Hardware Description Languages: Java, Python, C/C++, SQL, JavaScript, Verilog, Dart
-* Developer Tools: GitHub, Unity, Firebase, Render, VS Code, IntelliJ
-* Databases: Cloud Firestore, MySQL, MongoDB
+* Developer Tools: GitHub, Unity, Firebase, Render, Railway, Flask
+* Databases: Cloud Firestore, MySQL, MongoDB, PostgreSQL
 
 ## Project Experience
 * __Mobile App Development Intern — Go Together, Inc.__ | _Dart, Flutter_
