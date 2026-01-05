@@ -9,6 +9,10 @@
 * Databases: Cloud Firestore, MySQL, MongoDB
 
 ## Project Experience
+* __Mobile App Development Intern — Go Together, Inc.__ | _Dart, Flutter_
+  * Supported the development of a new cross-platform mobile experience for a national K-12 mobility technology platform.
+  * Contributed to Flutter-based front-end components, early user flows, and API integration work designed to improve the student and family experience.
+  * Collaborated with senior developers in agile sprints, participated in code reviews, and helped translate product requirements into functional, testable features for an upcoming release still under confidentiality.
 * __cordbyte — Modular Discord Bot Template__ | _Python, discord.py, MongoDB_
   * Designed a simple, clean, and extensible Discord bot template using `discord.py`, supporting slash commands, buttons, and background tasks.
   * Integrated MongoDB for persistent storage, enabling command state, user preferences, and server-specific settings.
