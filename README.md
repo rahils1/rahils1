@@ -4,8 +4,10 @@
 * Hello, I am Rahil. I am a fourth year Computer Systems Engineering student at ASU. I am interested in learning about artificial intelligence/machine learning, embedded systems, and game development. I have worked on a few projects and have some experience working on a few small discord bots. Currently working on dsaria(see details below). Feel free to contact me: rahil15973@gmail.com
 
 ## Skills
-* Programming and Hardware Description Languages: Java, Python, C/C++, SQL, JavaScript, Verilog, Dart
-* Developer Tools: GitHub, Unity, Firebase, Render, Railway, Flask
+* Programming and Hardware Description Languages: Java, Python, C/C++, SQL, JavaScript, Verilog, Dart, Swift
+* Frontend: HTML, CSS, React
+* Frameworks and Libraries: Flutter, Flask
+* Developer Tools: Git, GitHub, Unity, Firebase, Deno
 * Databases: Cloud Firestore, MySQL, MongoDB, PostgreSQL
 
 ## Project Experience
@@ -25,7 +27,7 @@
   * Implemented sorting algorithms including Bubble Sort and Counting Sort with plans for additional algorithms.
   * Gained hands-on experience with Python package development, distribution, and PyPI publishing workflows.
   * [GitHub: github.com/rahils1/dsaria](https://github.com/rahils1/dsaria) | [PyPI: pypi.org/project/dsaria](https://pypi.org/project/dsaria/)
-* __Score Tracking Discord Bot__ | _Python, discord.py, MongoDB, Render, Cloud Firestore, Railway_
+* __Score Tracking Discord Bot__ | _Python, discord.py, MongoDB_
   * Developed a multi-purpose Discord bot using discord.py to automate server leaderboard management and enhance user interaction.
   * Originally integrated with Cloud Firestore for data persistence; later migrated to MongoDB to improve query flexibility and performance.
   * Persisted user data, command usage, and server-specific configurations using MongoDB.
