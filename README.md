@@ -1,7 +1,7 @@
 # About Me
 
 ## Overview
-* Hello, I am Rahil. I earned a Bachelor of Science in Engineering (B.S.E.) in Computer Systems Engineering from Arizona State University. I am interested in learning about artificial intelligence/machine learning, embedded systems, and game development. I have worked on a few projects and have some experience working on a few small discord bots. Currently working on dsaria(see details below). Feel free to contact me: rahil15973@gmail.com
+* Hello, I am Rahil. I earned a Bachelor of Science in Engineering (B.S.E.) in Computer Systems Engineering from Arizona State University. I am interested in learning about artificial intelligence/machine learning, embedded systems, and game development. I have worked on a few projects and have some experience working on a few small discord bots. Currently working at a stealth startup and a few personal projects as well. Feel free to contact me: rahil15973@gmail.com
 
 ## Skills
 * Programming and Hardware Description Languages: Java, Python, C/C++, SQL, JavaScript, Verilog, Dart, Swift
