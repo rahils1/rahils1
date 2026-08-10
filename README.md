@@ -81,8 +81,6 @@ A scalable, production-ready Discord bot architecture designed for extensibility
 
 ---
 
-## Other Projects
-
 ### dsaria — Python Data Structures & Algorithms Library
 
 *Python, PyPI*
