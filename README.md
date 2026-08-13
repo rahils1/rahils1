@@ -50,7 +50,7 @@ August 2022 – May 2026
 
 ### Alpaca Algorithmic Trading Bot
 
-*TypeScript, Deno, Alpaca API, WebSockets*
+*TypeScript, Deno, REST APIs, WebSockets*
 
 A high-performance, event-driven trading system engineered to operate like a miniature hedge fund execution engine.
 
