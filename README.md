@@ -61,7 +61,7 @@ A high-performance, event-driven trading system engineered to operate like a min
 * Architected modular portfolio, strategy, and execution layers with full unit and integration test coverage for production-grade reliability.
 * Integrated **GitHub Actions CI pipelines** to ensure every change is validated before deployment, improving system robustness and consistency.
 
-**GitHub:** https://github.com/rahils1/alpaca-trading-bot
+**GitHub:** [https://github.com/rahils1/alpaca-trading-bot](https://github.com/rahils1/alpaca_trading_bot)
 
 ---
 
